@@ -1,5 +1,8 @@
-# iOS-GAME
-iOS游戏
+# GAMEING
+
+<p align='center'>
+<img src='contents/images/gameing_bg.png'>
+</p>
 
 
 ### 2018.05.08 SpiritDemo
